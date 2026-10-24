@@ -3,3 +3,7 @@ node_modules/
 handover/*.zip
 .DS_Store
 Thumbs.db
+
+.vercel
+.env*
+handover/screenshots/
